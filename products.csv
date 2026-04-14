@@ -1,0 +1,52 @@
+product_type,skin_type,issue,budget,product_name,rating,price,link
+cleanser,oily,any,low,Garnier Oil Clear Face Wash,4.2,₹199,https://www.nykaa.com/
+cleanser,oily,any,medium,Cetaphil Oily Skin Cleanser,4.5,₹399,https://www.nykaa.com/
+cleanser,oily,any,high,La Roche-Posay Effaclar Cleanser,4.7,₹1200,https://www.nykaa.com/
+
+cleanser,dry,any,low,Dove Gentle Cleanser,4.3,₹250,https://www.nykaa.com/
+cleanser,dry,any,medium,Cetaphil Gentle Cleanser,4.6,₹450,https://www.nykaa.com/
+cleanser,dry,any,high,CeraVe Hydrating Cleanser,4.8,₹1500,https://www.nykaa.com/
+
+cleanser,sensitive,any,low,Simple Face Wash,4.4,₹325,https://www.nykaa.com/
+cleanser,sensitive,any,medium,Simple Refreshing Cleanser,4.5,₹499,https://www.nykaa.com/
+cleanser,sensitive,any,high,Avene Gentle Cleanser,4.7,₹1400,https://www.nykaa.com/
+
+cleanser,combination,any,low,Himalaya Neem Face Wash,4.1,₹180,https://www.nykaa.com/
+cleanser,combination,any,medium,Neutrogena Deep Clean,4.4,₹350,https://www.nykaa.com/
+cleanser,combination,any,high,Kiehl’s Ultra Facial Cleanser,4.6,₹1600,https://www.nykaa.com/
+
+serum,any,acne,low,Ponds Acne Serum,4.0,₹299,https://www.nykaa.com/
+serum,any,acne,medium,Minimalist Niacinamide 10%,4.5,₹599,https://www.nykaa.com/
+serum,any,acne,high,The Ordinary Niacinamide,4.7,₹1200,https://www.nykaa.com/
+
+serum,any,dullness,low,Garnier Vitamin C Serum,4.2,₹399,https://www.nykaa.com/
+serum,any,dullness,medium,Plum Vitamin C Serum,4.4,₹699,https://www.nykaa.com/
+serum,any,dullness,high,Klairs Vitamin C Serum,4.6,₹1500,https://www.nykaa.com/
+
+serum,any,pigmentation,low,Lakme Vitamin C Serum,4.1,₹450,https://www.nykaa.com/
+serum,any,pigmentation,medium,Minimalist Alpha Arbutin,4.5,₹650,https://www.nykaa.com/
+serum,any,pigmentation,high,The Ordinary Alpha Arbutin,4.7,₹1300,https://www.nykaa.com/
+
+serum,any,dark spots,low,Biotique Spot Corrector,3.9,₹250,https://www.nykaa.com/
+serum,any,dark spots,medium,Derma Co Kojic Serum,4.4,₹700,https://www.nykaa.com/
+serum,any,dark spots,high,Murad Dark Spot Serum,4.6,₹2000,https://www.nykaa.com/
+
+moisturizer,oily,any,low,Ponds Super Light Gel,4.3,₹299,https://www.nykaa.com/
+moisturizer,oily,any,medium,Neutrogena Hydro Boost,4.6,₹900,https://www.nykaa.com/
+moisturizer,oily,any,high,Clinique Moisture Surge,4.7,₹2500,https://www.nykaa.com/
+
+moisturizer,dry,any,low,Nivea Soft Cream,4.2,₹199,https://www.nykaa.com/
+moisturizer,dry,any,medium,Cetaphil Moisturizing Cream,4.6,₹800,https://www.nykaa.com/
+moisturizer,dry,any,high,CeraVe Moisturizing Cream,4.8,₹1800,https://www.nykaa.com/
+
+moisturizer,sensitive,any,low,Simple Light Moisturizer,4.4,₹350,https://www.nykaa.com/
+moisturizer,sensitive,any,medium,Cetaphil Moisturizer,4.5,₹750,https://www.nykaa.com/
+moisturizer,sensitive,any,high,Avene Skin Recovery Cream,4.7,₹2000,https://www.nykaa.com/
+
+moisturizer,combination,any,low,Himalaya Nourishing Cream,4.1,₹220,https://www.nykaa.com/
+moisturizer,combination,any,medium,Dot & Key Gel Moisturizer,4.4,₹850,https://www.nykaa.com/
+moisturizer,combination,any,high,Kiehl’s Ultra Facial Cream,4.6,₹2200,https://www.nykaa.com/
+
+sunscreen,any,any,low,Lakme Sun Expert SPF50,4.2,₹299,https://www.nykaa.com/
+sunscreen,any,any,medium,Neutrogena Ultra Sheer SPF50,4.5,₹650,https://www.nykaa.com/
+sunscreen,any,any,high,La Roche-Posay Anthelios SPF50,4.7,₹1800,https://www.nykaa.com/
